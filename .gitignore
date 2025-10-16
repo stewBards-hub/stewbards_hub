@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python virtual environment
+bot-venv/
+
+# Service files
+*.service
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database
+*.db
+
+# IDE settings
+.vscode/
+.idea/
